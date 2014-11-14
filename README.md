@@ -9,7 +9,7 @@ Autohotkey infrared remote control script, allows you to use the HP OVU400103/00
  Tested okay on win7, win xp (you might need to run as administrator)
  Tested okay with Verizon Cable Box Remote using DVD selector
  
- Note that the unique verizon codes are coming in on byte Keys5 .. (see line 155)
+ Note that the unique verizon codes are coming in on byte Keys5 .. (see line 155 of remoteControlDriver.ahk)
  this may not be the case for all controllers, some will require you to look closely
  at the error codes to see which bytes are being affected by your particular controller.
  This will require you to modify the label creator accordingly (see line 168)
