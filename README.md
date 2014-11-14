@@ -1,5 +1,6 @@
-infrared-remote-ahk
+infrared-remote-ahk (c) Copyright Hugh Fuve 2010
 ===================
+MIT Licence, use it any way you like.
 
 Autohotkey infrared remote control script, allows you to use the HP OVU400103/00 with the Verizon Cable Box Remote Control or add support for any infrared remote control you like, to control your computer while watching youtube, netflix VLC player or standard media center
 
@@ -39,3 +40,16 @@ Pause/play and fast forward/back should work in either mode.
 
  The script will try to detect if VLC or different apps are running by scanning the window titles and can run a different set of commands for that application.
  
+Credits:
+================================================================
+AHKHID.ahk
+http://www.autohotkey.com/board/topic/38015-ahkhid-an-ahk-implementation-of-the-hid-functions/
+Credit goes to 
+ TheGood
+ Lazslo
+ Titan
+
+COM.ahk
+http://www.autohotkey.com/board/topic/21142-com-standard-library/
+Credit goes to Sean
+
