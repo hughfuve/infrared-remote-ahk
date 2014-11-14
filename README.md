@@ -1,5 +1,6 @@
-infrared-remote-ahk (c) Copyright Hugh Fuve 2010
+infrared-remote-ahk
 ===================
+(c) Copyright Hugh Fuve 2010
 MIT Licence, use it any way you like.
 
 Autohotkey infrared remote control script, allows you to use the HP OVU400103/00 with the Verizon Cable Box Remote Control or add support for any infrared remote control you like, to control your computer while watching youtube, netflix VLC player or standard media center
