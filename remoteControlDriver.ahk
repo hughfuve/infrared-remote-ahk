@@ -1,5 +1,20 @@
 /*
- Autohotkey Driver to interface the OVU400103/00 infrared detector to your remote control
+ Autohotkey Driver to interface the OVU400103/00 infrared detector to the Verizon Remote Control
+(c) Copyright Hugh Fuve 2010
+
+MIT Licence, use it any way you like.
+
+AHKHID.ahk  belongs to their respective creators, and is unmodified from were found.
+http://www.autohotkey.com/board/topic/38015-ahkhid-an-ahk-implementation-of-the-hid-functions/
+Credit goes to 
+ TheGood
+ Lazslo
+ Titan
+
+COM.ahk
+Credit goes to Sean
+http://www.autohotkey.com/board/topic/21142-com-standard-library/
+
 
  Tested okay on win7, win xp (you might need to run as administrator)
  Tested okay with Verizon Cable Box Remote using DVD selector
