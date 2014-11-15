@@ -3,7 +3,10 @@ infrared-remote-ahk
 (c) Copyright Hugh Fuve 2010
 MIT Licence, use it any way you like.
 
-Autohotkey infrared remote control script, allows you to use the HP OVU400103/00 with the Verizon Cable Box Remote Control or add support for any infrared remote control you like, to control your computer while watching youtube, netflix VLC player or standard media center
+With a little programming, you can actually use almost any remote control at all on your computer, you are not limited to the standard PC media remotes. That means you can program your computer to respond to a standard cable box remote, or a universal remote, so you can have a one remote controls all solution, including your PC. That means you can have
+a multimedia computer set up to run netflix or whatever, and just switch over to it and control it with your remote.
+
+Here's a Autohotkey infrared remote control script, which allows you to use the HP OVU400103/00 (infrared detector - pick them up on ebay) with the Verizon Cable Box Remote Control or add support for any infrared remote control you like, to control your computer while watching youtube, netflix VLC player or standard media center
 
 
  Autohotkey Driver to interface the OVU400103/00 infrared detector to your remote control
