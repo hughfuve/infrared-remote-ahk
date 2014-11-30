@@ -57,10 +57,4 @@ Credit goes to Sean
 
 Hire Me
 ================================================================
-Got an Infrared or Autohotkey Scripting project needs a contractor?
-Rates 
-  $200 + $2 per LOC
-  $50 per hour
-  Open to short term projects. I love technology, and produce between 100 - 500 lines of debugged and working code per day with over 30years software and electronic design experience. 
-  Autohotkey,C,C++,PHP,SQL,ASP,CGI,COLDFUSION,Flash,Javascript,Java,JNode,Basic,VBasic,z80/8080,6502,6800,6802,6805,6809,68705,68000,x86,340x0,i960,i860,pic,Cobol,Pascal,Circuit Design with Protel,MACH Series, Xilinx. HTML5, Android, IOS, Linux, Win, Mac, Dos, VAX, Sega System16, Amiga, Atari, C64, Amstrad, Vic20, RS-80, PDP-11. Embedded Systems and low level projects not a problem.
-  
+Actually I'm not for hire ...
